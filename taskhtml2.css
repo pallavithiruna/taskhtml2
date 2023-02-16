@@ -1,0 +1,48 @@
+.container{
+    border:1px solid  black;
+    height:600px;
+    
+    margin:10px 10px 10px 10px;
+}
+.event{
+    display :flex;
+    justify-content: center;
+    align-items: center;
+    position:relative;
+    top:20px;
+}
+.event label{
+    font-style:georgia;
+}
+.number{
+    display:flex;
+    justify-content: center;
+    align-items: center;
+    position:relative;
+    top:30px;
+}
+.innercontainer{
+    border:1px solid black;
+    height:450px;
+    position :relative;
+    top:40px;
+    margin:20px 30px;
+}
+.col-6{
+    border:1px solid white;
+    position:relative;
+    top:50px;
+    left:120px;
+    width:500px;
+    height:360px;
+}
+image{
+    border:1px solid black;
+    height:180px;
+    width:200px;
+}
+.box{
+border:1px solid black;
+height:200px;
+width:200px;
+}
